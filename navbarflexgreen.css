@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #f0fff0;
+    background-color: #fff;
 }
 
 .navbar1 {
@@ -51,6 +51,60 @@ li, a:hover {
 }
 
 .buttonright1:hover {
+    background-color: #e4ffe5;
+    outline: 2px solid #59c559;
+    color: #59c559;
+}
+
+h1 {
+    font-family: "Source Sans pro", sans-serif;
+    font-size: 20pt;
+    padding: 4rem 2rem 1rem 3rem;
+}
+
+.apurple {
+    justify-content: center;
+    margin: 0.5rem 2rem 0.5rem 3rem;
+    padding: 0.5rem 0.7rem 0.5rem 0.7rem;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #d48bff;
+    color: #f9efff;
+}
+
+.apurple:hover {
+    background-color: #f9efff;
+    outline: 2px solid #d48bff;
+    color: #d48bff;
+}
+
+.ablue {
+    justify-content: center;
+    margin: 0.5rem 2rem 0.5rem 3rem;
+    padding: 0.5rem 0.7rem 0.5rem 0.7rem;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #597dc5;
+    color: #e4edff;
+}
+
+.ablue:hover {
+    background-color: #e4edff;
+    outline: 2px solid #597dc5;
+    color: #597dc5;
+}
+
+.agreen {
+    justify-content: center;
+    margin: 0.5rem 2rem 0.5rem 3rem;
+    padding: 0.5rem 0.7rem 0.5rem 0.7rem;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #59c559;
+    color: #e4ffe5;
+}
+
+.agreen:hover {
     background-color: #e4ffe5;
     outline: 2px solid #59c559;
     color: #59c559;
